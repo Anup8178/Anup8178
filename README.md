@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Amzaon of IIIT**
+- 🔭 I’m currently working on **Shopcart of IIIT**
 
-- 🌱 I’m currently learning **Wed-Development**
+- 🌱 I’m currently learning **Web-Development**
 
 - 🤝 I’m looking for help with [Shopcart](https://github.com/Anup8178/ShopCart)
 
